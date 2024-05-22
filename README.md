@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello World! 👋 It's [Tavi!](https://sakigo9.github.io/MyPortfolio/)
 
-<!--
-**Taving40/Taving40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Tavi, Web Dev, Android Dev and AR Enthusiast. Apart from that I love getting involved in problem solving and keeping things organized.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://giphy.com/embed/24hRt4e4FOX6PxVgGy" />
+
+**Talking about Personal Stuffs:**
+
+- 🥽 I’m currently working at [Almer](https://github.com/Almer-Technologies).
+
+- 🌱 I’m currently developing a cloud ecosystem around an AR device.
+
+- 🎮 Interested in game dev.
+
+- 📫 How to reach me: taving40@gmail.com - yes, I actually check my emails
+
+
+![Tavi's github stats](https://github-readme-stats.vercel.app/api?username=Taving40&show_icons=true&hide_border=true)
