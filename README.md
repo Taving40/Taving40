@@ -5,7 +5,7 @@ Hi, I'm Tavi, Web Dev, Android Dev and AR Enthusiast. Apart from that I love get
 
 <img align="right" alt="GIF" src="https://giphy.com/embed/24hRt4e4FOX6PxVgGy" />
 
-**Talking about Personal Stuffs:**
+**Personal:**
 
 - 🥽 I’m currently working at [Almer](https://github.com/Almer-Technologies).
 
