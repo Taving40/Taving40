@@ -3,7 +3,7 @@
 
 Hi, I'm Tavi, Web Dev, Android Dev and AR Enthusiast. Apart from that I love getting involved in problem solving and keeping things organized.
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/24hRt4e4FOX6PxVgGy" />
+![Alt Text](https://giphy.com/embed/24hRt4e4FOX6PxVgGy)
 
 **Personal:**
 
