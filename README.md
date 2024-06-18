@@ -14,4 +14,4 @@ Hi, I'm Tavi, Web Dev, Android Dev and AR Enthusiast. Apart from that I love get
 - 📫 How to reach me: taving40@gmail.com - yes, I actually check my emails
 
 
-![Tavi's github stats](https://github-readme-stats.vercel.app/api?username=Taving40&show_icons=true&hide_border=true)
+[//]: # (![Tavi's github stats](https://github-readme-stats.vercel.app/api?username=Taving40&show_icons=true&hide_border=true))
